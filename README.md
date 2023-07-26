@@ -1,5 +1,7 @@
 # BMI Calculator
 
+This app is a simple BMI calculator that allows users to calculate their Body Mass Index (BMI). User can adjust height and weight using + and - in given cards.
+
 #Screenshots
 
 1. Landing Screen
